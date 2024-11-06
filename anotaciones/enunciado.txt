@@ -1,0 +1,25 @@
+Aplicación de Clima
+Desarrolla una aplicación sencilla que muestre el clima actual de una provincia 
+utilizando la API Rest de eltiempo.net. 
+Limitaremos la aplicación a las provincias de Andalucía.
+
+Nombre de la provincia.
+Temperatura actual.
+Descripción del clima (por ejemplo, "soleado", "nublado", etc.).
+Ícono del clima que represente el estado actual (por ejemplo, un sol para clima soleado).
+Un botón para actualizar el clima actual.
+Manejo de errores para mostrar mensajes informativos en caso de que la ciudad no se encuentre o haya un problema con la conexión.
+
+Los códigos de cada provincia podemos encontrarlos en:
+https://www.el-tiempo.net/provincias
+Al - 04, Cá - 11, Ja -23, etc.
+
+Ejemplo de API Rest filtrada a la provincia de Almería:
+https://www.el-tiempo.net/api/json/v2/provincias/04
+
+Utiliza alguno de estos componentes:
+TextInput para que el usuario ingrese el nombre de una provincia de Andalucía.
+Text para mostrar la temperatura y una descripción del clima.
+Button o similar: Para que el usuario pueda buscar el clima de la ciudad ingresada.
+Image o librería de iconos: Para mostrar el ícono del clima.
+Alert: Para mostrar mensajes de error o advertencia.
