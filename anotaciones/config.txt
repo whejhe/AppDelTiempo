@@ -1,0 +1,10 @@
+npm install -g expo-cli
+
+npx create-expo-app PruebaFetch --template blank
+
+npm install axios
+
+Navegacion:
+npm install @react-navigation/native
+npx expo install react-native-screens react-native-safe-area-context
+npm install @react-navigation/stack

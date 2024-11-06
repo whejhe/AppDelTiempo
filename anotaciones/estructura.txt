@@ -1,0 +1,9 @@
+src/
+├── api/
+│   └── apiClient.js         # Configuración de Axios para las peticiones
+├── screens/
+│   ├── HomeScreen.js        # Pantalla para listar personajes
+│   ├── DetailScreen.js      # Pantalla para mostrar detalles de un personaje
+│   ├── CreateScreen.js      # Pantalla para crear un personaje (simulado)
+│   ├── UpdateScreen.js      # Pantalla para actualizar un personaje (simulado)
+└── App.js                   # Configuración y navegación principal
