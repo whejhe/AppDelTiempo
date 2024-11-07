@@ -1,0 +1,74 @@
+{
+  "origen": {
+    "productor": "Agencia Estatal de Meteorología - AEMET. Gobierno de España",
+    "web": "https://www.aemet.es",
+    "language": "es",
+    "copyright": "© AEMET. Autorizado el uso de la información y su reproducción citando a AEMET como autora de la misma.",
+    "nota_legal": "https://www.aemet.es/es/nota_legal",
+    "descripcion": "elTiempo.net muestra la información meteorológica creada por © AEMET"
+  },
+  "title": "El tiempo en la provincia de Almería",
+  "today": {
+    "p": "Cielos con intervalos nubosos, de nubes bajas, sin descartar precipitaciones dÃ©biles y dispersas en el litoral oriental. Temperaturas mÃ­nimas sin cambios y mÃ¡ximas en descenso . Vientos flojos variables, tendiendo  a componente este en el litoral  y aumentando a moderados ."
+  },
+  "tomorrow": {
+    "p": "Cielos nubosos, con lloviznas ocasionales. Temperaturas sin cambios. Vientos de componente este, flojos en el interior y moderados en el litoral."
+  },
+  "ciudades": [
+    {
+      "id": "04013",
+      "idProvince": "04",
+      "name": "AlmerÃ­a",
+      "nameProvince": "AlmerÃ­a",
+      "stateSky": {
+        "description": "Poco nuboso",
+        "id": "12"
+      },
+      "temperatures": {
+        "max": "25",
+        "min": "16"
+      }
+    },
+    {
+      "id": "04053",
+      "idProvince": "04",
+      "name": "HuÃ©rcal-Overa",
+      "nameProvince": "AlmerÃ­a",
+      "stateSky": {
+        "description": "Nuboso con lluvia escasa",
+        "id": "44"
+      },
+      "temperatures": {
+        "max": "23",
+        "min": "13"
+      }
+    }
+  ],
+  "provincia": {
+    "CODPROV": "04",
+    "NOMBRE_PROVINCIA": "Almería",
+    "CODAUTON": "01",
+    "COMUNIDAD_CIUDAD_AUTONOMA": "Andalucía",
+    "CAPITAL_PROVINCIA": "Almería"
+  },
+  "comautonoma": {
+    "ID": "and",
+    "CODAUTON": "01",
+    "CODCOMUN": "61",
+    "NOMBRE": "ANDALUCÍA"
+  },
+  "metadescripcion": "El tiempo en la provincia de Almería",
+  "keywords": "El tiempo en la provincia de Almería, precipitaciones, viento, lluvia, estado del cielo",
+  "breadcrumb": [
+    {
+      "name": "Provincias",
+      "url": "/provincias",
+      "title": "El tiempo | Lista de provincias"
+    },
+    {
+      "name": "Almería",
+      "url": null,
+      "title": "El tiempo en la provincia de Almería"
+    }
+  ]
+}
